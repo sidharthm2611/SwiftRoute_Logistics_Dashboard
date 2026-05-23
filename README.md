@@ -146,4 +146,4 @@ Hubs Overview
 
 Vehicles Overview
 
-![Dashboard](Vehicles_Overview_dashboard.jpg)
+![Dashboard](Vehicles_overview_dashboard.jpg)
