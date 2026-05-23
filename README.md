@@ -4,7 +4,7 @@ A comprehensive Power BI dashboard project designed to analyze and monitor logis
 
 The SwiftRoute Logistics Dashboard is an end-to-end Power BI analytics solution built to monitor and optimize logistics operations.
 
-The dashboard consists of four major sections:
+# The dashboard consists of four major sections:
 
 Main Dashboard Overview
 Drivers Overview
