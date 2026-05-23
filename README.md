@@ -138,12 +138,12 @@ Main Dashboard
 
 Drivers Overview
 
-(Add screenshot here)
+![Dashboard](Drivers_Overview_dashboard.jpg)
 
 Hubs Overview
 
-(Add screenshot here)
+![Dashboard](Hubs_Overview_dashboard.jpg)
 
 Vehicles Overview
 
-(Add screenshot here)
+![Dashboard](Vehicles_Overview_dashboard.jpg)
