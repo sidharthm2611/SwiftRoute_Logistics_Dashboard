@@ -18,15 +18,15 @@ It enables users to analyze:
 
 - Order performance
 
-On-time delivery rates
+- On-time delivery rates
 
-Customer satisfaction
+- Customer satisfaction
 
-Driver efficiency
+- Driver efficiency
 
-Hub processing capacity
+- Hub processing capacity
 
-Vehicle utilization and maintenance
+- Vehicle utilization and maintenance
 
 # 🛠️ Tools & Technologies Used
 Power BI
@@ -44,97 +44,97 @@ Data Visualization
 # 📊 Dashboard Features
 # 🚚 Main Dashboard
 
-Provides a high-level overview of logistics performance:
+- Provides a high-level overview of logistics performance:
 
-Total Orders
+- Total Orders
 
-On-Time Delivery Rate
+- On-Time Delivery Rate
 
-Customer Satisfaction (CSAT)
+- Customer Satisfaction (CSAT)
 
-Average Delivery Time
+- Average Delivery Time
 
-Hub Summary
+- Hub Summary
 
-Driver Summary
+- Driver Summary
 
-Vehicle Summary
+- Vehicle Summary
 
 # 👨‍✈️ Drivers Overview
 
-Analyzes driver performance and delivery efficiency:
+- Analyzes driver performance and delivery efficiency:
 
-Experience vs Ratings Analysis
+- Experience vs Ratings Analysis
 
-Drivers with Highest Delays
+- Drivers with Highest Delays
 
-Delivery Trends
+- Delivery Trends
 
-Driver Details & Ratings
+- Driver Details & Ratings
 
-Monthly Performance Metrics
+- Monthly Performance Metrics
 
 # 🏢 Hubs Overview
 
-Monitors operational efficiency across logistics hubs:
+- Monitors operational efficiency across logistics hubs:
 
-Hub Capacity vs Orders Processed
+- Hub Capacity vs Orders Processed
 
-Hub Performance Rankings
+- Hub Performance Rankings
 
-Processing Time Heatmap
+- Processing Time Heatmap
 
-Daily Operational Analysis
+- Daily Operational Analysis
 
 # 🚛 Vehicles Overview
 
-Tracks fleet performance and maintenance:
+- Tracks fleet performance and maintenance:
 
-Active vs Maintenance Vehicles
+- Active vs Maintenance Vehicles
 
-Vehicle Breakdown Analysis
+- Vehicle Breakdown Analysis
 
-Orders by Vehicle Model
+- Orders by Vehicle Model
 
-Vehicle Age vs Breakdown Relationship
+- Vehicle Age vs Breakdown Relationship
 
-Orders by Vehicle Type
+- Orders by Vehicle Type
 
 # 📈 Key Insights
 
-Identified hubs with the highest operational efficiency.
+- Identified hubs with the highest operational efficiency.
 
-Analyzed drivers contributing to delivery delays.
+- Analyzed drivers contributing to delivery delays.
 
-Tracked monthly delivery performance trends.
+- Tracked monthly delivery performance trends.
 
-Found relationships between vehicle age and breakdown frequency.
+- Found relationships between vehicle age and breakdown frequency.
 
-Compared hub processing capacity with actual order loads.
+- Compared hub processing capacity with actual order loads.
 
-Monitored vehicle utilization and maintenance distribution.
+- Monitored vehicle utilization and maintenance distribution.
 
 # 🎯 Business Impact
 
 This dashboard helps logistics teams:
 
-Improve delivery efficiency
+- Improve delivery efficiency
 
-Reduce operational delays
+- Reduce operational delays
 
-Optimize hub workload
+- Optimize hub workload
 
-Monitor fleet health
+- Monitor fleet health
 
-Enhance customer satisfaction
+- Enhance customer satisfaction
 
-Support data-driven decision making
+- Support data-driven decision making
 
 # 📷 Dashboard Screenshots
 
 Main Dashboard
 
-(Add screenshot here)
+![Dashboard](SwiftRoute_Logistics_dashboard.jpg)
 
 Drivers Overview
 
